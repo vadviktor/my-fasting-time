@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Fasting Time</string>
+    <string name="next_meal">Next meal can be after</string>
+    <string name="previous_meal">Previous meal was at</string>
+    <string name="app_title">Fast Times</string>
+    <string name="app_title_image">App title image</string>
+</resources>
